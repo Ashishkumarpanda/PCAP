@@ -1,0 +1,73 @@
+Congratulations!
+You have completed Python Essentials 1
+
+Well done! You've reached the end of the Python Essentials 1 course, and completed a major milestone in your Python programming education.
+
+Part 1: Basics completion - congratulationsYou are now prepared to take the final challenge, the Summary Test, which will help you review the most important information you've read and test the skills and knowledge you've gained throughout the course.
+
+Having completed the course, you're also prepared to attempt the qualification PCEP - Certified Entry-Level Python Programmer certification exam, which is an interim step to the PCAP - Certified Associate in Python Programming certification, as well as the starting point to launching a career in software development, Python programming, and related technologies.
+
+Ready?
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+What is PCEP certification?
+PCEP - Certified Entry-Level Python Programmer certification shows that you are familiar with universal computer programming concepts like data types, containers, functions, conditions, and loops, as well as Python programming language syntax, semantics, and the runtime environment.
+
+Becoming PCEP certified ensures that you are acquainted with the most essential means provided by Python 3, which enable you to start your own studies at an intermediate level and to continue your professional development.
+
+PCEP certification allows you to demonstrate that not only are you up to date with Python-related issues, but also that you can competently deal with them.
+
+Furthermore, with the OpenEDG Python Institute, you gain access to a large network of Python programming professionals, a valuable resource for solving Python-related problems, and for developing innovative solutions.
+
+Get your foot in the door with the PCEP - Certified Entry-Level Python Programmer certification. Land an entry-level programming job, break into the field, and gain the necessary skills, knowledge, and experience to advance your career.
+
+
+How to become PCEP certified?
+Upon completion of Python Essentials 1, you are prepared to attempt the qualification PCEP - Certified Entry-Level Python Programmer.
+
+Registration
+
+OpenEDG Python Institute Test Candidates can register and take the PCEP exam online via the OpenEDG Testing Service Platform available at https://edube.org.
+
+OpenEDG Python Institute PCEP exam sessions do not need to be scheduled in advance, and test candidates can register for and take exams on the same day (non-proctored exams).
+
+Test Candidate Account
+
+Prior to taking an exam, the candidate is required to create a User Account (Test Candidate Account) at https://edube.org/registration. The candidate must provide their personal information and address, set up a secure password, and read and accept the Terms of Service. If you've been doing the Python Essentials 1 course directly through Edube Interactive, this means that you already have your Test Candidate Account and you are not required to do anything else.
+
+Please note that once your account has been set up, you will no longer be able to edit some of the information associated with your profile (i.e., your name, email address, and date of birth), so please make sure all the details you provide in the registration form are correct.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+How to take PCEP exam?
+Taking the exam requires that you have an exam voucher. You can purchase an exam voucher at OpenEDG Voucher Store and assign it to your Test Candidate Account.
+
+Purchase exam voucher
+
+To purchase an exam voucher, you should go to OpenEDG Voucher Store, add a PCEP voucher to the cart, and place an order.
+
+During the process you be requested to provide billing information (invoice details and the email address where the invoice should be sent), shipping information (email address where the voucher should be sent) and read and accept the Voucher Policies.
+
+In the final stage of the order placement process, you will be requested to make payment (PayPal/Credit card, or Wire Transfer based on a Pro Forma Invoice issued).
+
+You can pay for the exam by all major credit cards (i.e., Visa, MasterCard, American Express), Debit Cards or via PayPal account.
+
+
+Assign voucher to your account
+
+Test candidates who already have an exam voucher can assign it to their User Account before taking the exam. The exam vouchers assigned are displayed on the Test Candidate Account and may be used to launch exams via OpenEDG Testing Service.
+
+You can also assign the voucher to your account during order placement. The voucher will be linked with your account as soon as we receive the payment.
+
+Take the exam
+
+After logging in at https://edube.org/login, you can launch your exam session by:
+
+clicking Take Exam (if you have an exam voucher and wish to begin your exam session immediately) or by
+clicking Launch Exam next to the voucher assigned to the OpenEDG User Account (if the voucher has already been assigned to your account.)
+For more information about the technical requirements, code of honor, and exam policies, go to https://pythoninstitute.org/pcep-testing-policies/.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+PCEP COURSE COMPLETE
